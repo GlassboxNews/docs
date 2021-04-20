@@ -40,6 +40,13 @@ Installation
 4. (Optional) You should enable the use of wordpress Json API if you have disabled it.
 
 
+Demo
+**************************************************
+
+.. raw:: html
+   :file: media/wordpress-glassbox-demo.html
+
+
 Acknowledgements
 **************************************************
 
