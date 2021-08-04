@@ -1,6 +1,6 @@
-============
+================
 Wordpress plugin
-============
+================
 
 Misinformation is a very complex phenomenon.
 Media’s credibility has lessened because of questionable practices like stealth editions.
