@@ -8,12 +8,13 @@ Glassbox Project
     :align: center
     :alt: Glassbox Project
 
-Our project consists in a protocol for the communication on how the news change between media outlets and its
-audience. We want to let the audience know how the news change and evolve.
+Our project proposal consists in a protocol for the communication on how the news change  between media outlets and its
+audience. We want to let the audience now how the news change and evolve .
 
-The protocol has been implemented in a Wordpress Plugin to publish Newsdiffs in standard endpoints.
-In this way users can know how posts have evolved through a proactive transparency approach adopted by the site.
-
+We want to create a protocol in order to provide a *View History* function on published news.
+With this tool, people would be able to see how content has been modified, even subscribing (via RSS) to a specific note.
+Ideally, this plug-in would be integrated in a tool used at large scale like Wordpress and potentially distributed in
+Wordpress Plugin format.
 
 .. raw:: html
    :file: media/glassbox-presentation.html

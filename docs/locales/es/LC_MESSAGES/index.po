@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Glassbox News
+# This file is distributed under the same license as the Glassbox Wordpress
+# Plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Glassbox Wordpress Plugin 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-04 21:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../index.rst:4
+msgid "Glassbox Project"
+msgstr ""
+
+#: ../../index.rst:11
+msgid ""
+"Our project proposal consists in a protocol for the communication on how "
+"the news change  between media outlets and its audience. We want to let "
+"the audience now how the news change and evolve ."
+msgstr ""
+
+#: ../../index.rst:14
+msgid ""
+"We want to create a protocol in order to provide a *View History* "
+"function on published news. With this tool, people would be able to see "
+"how content has been modified, even subscribing (via RSS) to a specific "
+"note. Ideally, this plug-in would be integrated in a tool used at large "
+"scale like Wordpress and potentially distributed in Wordpress Plugin "
+"format."
+msgstr ""
+
+#: ../../index.rst:23
+msgid "How is it relevant?"
+msgstr ""
+
+#: ../../index.rst:25
+msgid ""
+"The application of this tool is inspired by Wikipedia's View History "
+"functionality. In Latin America, editorial guidelines are lax, even in "
+"large, well-established media. Newsrooms edit content without notifying "
+"their audiences about the changes, and some of these editions severely "
+"modify the framing of the news. While some editions may be easily "
+"discarded as corrections, others should be disclosed to the public. "
+"Allowing the people to oversee these changes may also help to crowdsource"
+" the fight against misinformation, as Wikipedia’s collective intelligence"
+" has shown."
+msgstr ""
+
+#: ../../index.rst:33
+msgid ""
+"One of the biggest lessons from Wikipedia is that knowledge is a social "
+"construction. News are too: they are susceptible to bias, manipulation, "
+"and private interests. There’s nothing inherently wrong with editing – as"
+" a matter of fact, is one of the advantages of digital journalism. But it"
+" is different to update a text than changing a source, or adding "
+"multimedia content to offer context than removing information. "
+"Credibility and openness are intimately related, and newsrooms can learn "
+"from Wikipedia’s best practices."
+msgstr ""
+
+#: ../../index.rst:40
+msgid "Contents:"
+msgstr ""
+
+#: ../../index.rst:51
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:53
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:54
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../index.rst:55
+msgid ":ref:`search`"
+msgstr ""
+
