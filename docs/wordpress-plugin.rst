@@ -12,14 +12,14 @@ By using technology to open the process of news publishing, we can also improve 
 News making should be a public discussion, in order to strengthen reliability and credibility.
 
 Since the goal is to create a Wordpress plug-in, the tool would be available for practically 20% of all self-hosted websites in the world.
-We want to create a protocol description to publish newsdiffs to suscribed peers.
-The plug-in could also be integrated with other tools and potentially be used with other CMS platforms by following the protocol.
+Also we would like to draft a protocol RFC to publish newsdiffs to subscribed peers.
+The plug-in could also be integrated with other tools and potentially implemented other CMS platforms by following the standard.
 
 
 Design
 **************************************************
 The plugin is designed to leverage the use of Wordpress revisions.
-The plugin adds the capability to expose the revisions of `post_types` with revisions enabled.
+The plugin adds the capability to expose the revisions of `post_types` when revisions are enabled.
 
 We have enabled two different endpoints:
 
@@ -37,7 +37,7 @@ Installation
 1. Download the plugin zip.
 2. Install the zip as a plugin by uploading the file.
 3. Activate the plugin.
-4. (Optional) You should enable the use of wordpress Json API if you have disabled it.
+4. (Optional) You should enable the use of wordpress Json API if disabled.
 
 
 Demo
