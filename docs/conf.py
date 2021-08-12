@@ -256,3 +256,7 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+
+# Settings required for translations in readthedocs
+gettext_uuid = True
+gettext_compact = False

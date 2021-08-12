@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Glassbox Wordpress Plugin 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-04 21:08+0200\n"
+"POT-Creation-Date: 2021-08-12 18:23+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,5 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../../CONTRIBUTING.rst:3
+#: 45246017c3d349bb8e2ac08982bd74e0
 msgid "Contributing"
 msgstr ""
