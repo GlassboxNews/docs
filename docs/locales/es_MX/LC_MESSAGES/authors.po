@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Glassbox News
+# This file is distributed under the same license as the Glassbox Wordpress
+# Plugin package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Glassbox Wordpress Plugin 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-12 18:23+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../../AUTHORS.rst:2 41bd83961bcc4b07867070e51532762a
+msgid "Authors"
+msgstr ""
+
+#: ../../../AUTHORS.rst:4 ec7626a003e74dc3884cf40e3c74a9db
+msgid "Pepe Flores `(@padaguan) <http://twitter.com/padaguan>`_"
+msgstr ""
+
+#: ../../../AUTHORS.rst:5 3dd38441d0fb4d8896d1f0c6230064fa
+msgid "Noé Domínguez `(@noe_dgz) <http://twitter.com/noe_dgz>`_"
+msgstr ""
+

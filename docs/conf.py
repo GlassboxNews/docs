@@ -18,7 +18,7 @@ import os
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
-#sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath('./locales'))
 
 # -- General configuration ------------------------------------------------
 
@@ -162,7 +162,7 @@ html_static_path = ['_static']
 #html_show_sourcelink = True
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
-#html_show_sphinx = True
+html_show_sphinx = False
 
 # If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
 #html_show_copyright = True
@@ -176,7 +176,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'ReadtheDocsTemplatedoc'
+htmlhelp_basename = 'GlassboxDocs'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -196,8 +196,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'ReadtheDocsTemplate.tex', u'Read the Docs Template Documentation',
-   u'Read the Docs', 'manual'),
+  ('index', 'GlassboxDocs.tex', u'Glassbox News project documentation',
+   u'Glassbox', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -226,7 +226,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'readthedocstemplate', u'Read the Docs Template Documentation',
+    ('index', 'Glassbox Docs', u'Glassbox News project documentation',
      [u'Read the Docs'], 1)
 ]
 
@@ -240,8 +240,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ReadtheDocsTemplate', u'Read the Docs Template Documentation',
-   u'Read the Docs', 'ReadtheDocsTemplate', 'One line description of project.',
+  ('index', 'Glassbox Docs', u'Glassbox News project documentation',
+   u'Glassbox Docs', 'GlassboxDocsTemplate', 'One line description of project.',
    'Miscellaneous'),
 ]
 
