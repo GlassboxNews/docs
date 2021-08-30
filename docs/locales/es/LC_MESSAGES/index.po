@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../index.rst:4 0c6e132032114e6a9992b11588f02472
 msgid "Glassbox Project"
-msgstr ""
+msgstr "Glassbox Project"
 
 #: ../../index.rst:11 c31fae5f36ad4f3e907a02c5753be2b3
 msgid ""
@@ -28,6 +28,9 @@ msgid ""
 "change between media outlets and its audience. We want to let the "
 "audience know how the news change and evolve."
 msgstr ""
+"Nuestro proyecto consiste en un protocolo para la comunicación de cómo las noticias"
+"cambian para comunicarlo de los medios de comunicación a las audiencias. Nosotros queremos"
+"que la audiencia sepa cómo van cambiando y evolucionando las noticias"
 
 #: ../../index.rst:14 6f9b2ecce739405183d9a06bb8b293e1
 msgid ""

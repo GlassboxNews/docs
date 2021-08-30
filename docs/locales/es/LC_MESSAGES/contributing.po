@@ -20,5 +20,5 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:3 45246017c3d349bb8e2ac08982bd74e0
 msgid "Contributing"
-msgstr ""
+msgstr "Cómo contribuir"
 

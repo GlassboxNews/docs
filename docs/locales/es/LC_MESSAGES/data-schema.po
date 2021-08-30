@@ -20,5 +20,5 @@ msgstr ""
 
 #: ../../data-schema.rst:3 23ce3a20660c4bfbb697dded807bd884
 msgid "Data schema"
-msgstr ""
+msgstr "Esquema de datos"
 

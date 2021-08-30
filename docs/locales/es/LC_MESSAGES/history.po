@@ -20,5 +20,5 @@ msgstr ""
 
 #: ../../../HISTORY.rst:3 edde3b8e64a940f4b3460cc270f55cd6
 msgid "History"
-msgstr ""
+msgstr "Historia"
 
