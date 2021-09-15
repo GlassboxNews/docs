@@ -28,8 +28,8 @@ msgid ""
 "change between media outlets and its audience. We want to let the "
 "audience know how the news change and evolve."
 msgstr ""
-"Nuestro proyecto consiste en un protocolo para la comunicación de cómo las noticias"
-"cambian para comunicarlo de los medios de comunicación a las audiencias. Nosotros queremos"
+"Nuestro proyecto consiste en un protocolo para la comunicación de cómo las noticias "
+"cambian para comunicarlo de los medios de comunicación a las audiencias. Nosotros queremos "
 "que la audiencia sepa cómo van cambiando y evolucionando las noticias"
 
 #: ../../index.rst:14 6f9b2ecce739405183d9a06bb8b293e1
@@ -38,11 +38,13 @@ msgid ""
 "Newsdiffs in standard endpoints. In this way users can know how posts "
 "have evolved through a proactive transparency approach adopted by the "
 "site."
-msgstr ""
+msgstr "El protocolo ha sido implementado en un Plugin de Wordpress para publicar "
+"Newsdiffs en endpoinds estandar. De esta manera los usuarios saben cómo las publicaciones "
+"han evolucionado a través de la transparencia proactiva."
 
 #: ../../index.rst:22 8d23751c000b434c8077c74a500d79b7
 msgid "How is it relevant?"
-msgstr ""
+msgstr "¿Cómo es relevante?"
 
 #: ../../index.rst:24 a6835a0449e5439da6f282fb72dbe78d
 msgid ""
