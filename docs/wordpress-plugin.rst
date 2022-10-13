@@ -21,10 +21,12 @@ Design
 The plugin is designed to leverage the use of Wordpress revisions.
 The plugin adds the capability to expose the revisions of `post_types` when revisions are enabled.
 
-We have enabled two different endpoints:
+We have enabled four different endpoints:
 
 #. **{{site}}/wp-json/wp/v2/glassbox** - Enables to see the revisions of posts edited in the last 72 hours.
 #. **{{site}}/wp-json/wp/v2/posts/{{post_id}}/glassbox** - Enables to see all the stored revisions of a given post.
+#. **{{site}}/glassbox** - Enables to see the revisions of posts edited in the last 72 hours in Json format.
+#. **{{site}}/PERMALINK/glassbox** - Enables REDIRECT TO see all the stored revisions of a given post into the wp-json API.
 
 
 Compatibility
@@ -34,7 +36,7 @@ Wordpress 4.7 > and up.
 
 Installation
 **************************************************
-1. Download the plugin zip.
+1. Download the (plugin zip)[https://github.com/GlassboxNews/wordpress-plugin/releases/tag/v0.1.0-beta.1].
 2. Install the zip as a plugin by uploading the file.
 3. Activate the plugin.
 4. (Optional) You should enable the use of wordpress Json API if disabled.
